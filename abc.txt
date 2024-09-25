@@ -1,0 +1,30 @@
+-----------------------------------------
+Event Name:abc
+Date:21/04/2024
+Venue:Suramya Abode Resort
+Total Cost: 42500.0 Rs
+-----------------------------------------
+-----------------------------------------
+Event Name:ring ceremoney
+Date:21/05/9999
+Venue:Hotel Hyatt
+Total Cost: 120000.0 Rs
+-----------------------------------------
+-----------------------------------------
+Event Name:wedding
+Date:21/06/2023
+Venue:Arose Foods Banquet
+Total Cost: 37900.0 Rs
+-----------------------------------------
+-----------------------------------------
+Event Name:wedding
+Date:21/06/2023
+Venue:DoubleTree by Hilton
+Total Cost: 156810.0 Rs
+-----------------------------------------
+-----------------------------------------
+Event Name:wedding
+Date:21/04/2023
+Venue:Artilla In
+Total Cost: 155100.0 Rs
+-----------------------------------------
